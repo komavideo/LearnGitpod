@@ -1,6 +1,10 @@
 Gitpod - GitHub完美的云端IDE
 ==========================
 
+## Youtube视频讲解
+
+https://youtu.be/M1O4vVPO2oo
+
 ## 知识点
 
 * 不用VSCode了，Gitpod就能帮咱们管理代码
